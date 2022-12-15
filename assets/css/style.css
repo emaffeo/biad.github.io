@@ -201,6 +201,9 @@ p{
     #contacto{
         height: min-content!important;
     }
+    .img-fluid{
+        max-width: 50% !important;;
+    }
     .box-home{
         height: 50vh;
     }

@@ -2,27 +2,27 @@
 
 @font-face {
     font-family: font-thin;
-    src: url(/assets/font/Raleway-Thin.ttf);
+    src: url(../font/Raleway-Thin.ttf);
 }
 @font-face {
     font-family: font-light;
-    src: url(/assets/font/Raleway-Light.ttf);
+    src: url(../font/Raleway-Light.ttf);
 }
 @font-face {
     font-family: font-regular;
-    src: url(/assets/font/Raleway-Regular.ttf);
+    src: url(../font/Raleway-Regular.ttf);
 }
 @font-face {
     font-family: font-medium;
-    src: url(/assets/font/Raleway-Medium.ttf);
+    src: url(../font/Raleway-Medium.ttf);
 }
 @font-face {
     font-family: font-bold;
-    src: url(/assets/font/Raleway-Bold.ttf);
+    src: url(../font/Raleway-Bold.ttf);
 }
 @font-face {
     font-family: font-extrabold;
-    src: url(/assets/font/Raleway-ExtraBold.ttf);
+    src: url(../font/Raleway-ExtraBold.ttf);
 }
 /* //IMPORT */
 
@@ -72,7 +72,7 @@ p{
 #home{
     height: 50vh !important;
     width: 100%;
-    background-image: url(/assets/layout/home_torres.png);
+    background-image: url(../layout/home_torres.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size:cover ;
@@ -137,7 +137,7 @@ p{
 /* contacto */
 #contacto{
     height: 50vh;
-    background-image: url(/assets/layout/contacto.png);
+    background-image: url(../layout/contacto.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover ;
